@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
  *
  * @author muril
  */
-public class TestBack2017 {
+public class Main {
     public static void main(String[] argv) throws SQLException {
 
         try {
