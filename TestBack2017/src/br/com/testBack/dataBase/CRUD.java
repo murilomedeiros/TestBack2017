@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.testBack2017.dataBase;
+package br.com.testBack.dataBase;
 
-import static br.com.testBack2017.dataBase.Connection.getDBConnection;
+import static br.com.testBack.dataBase.Connection.getDBConnection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;

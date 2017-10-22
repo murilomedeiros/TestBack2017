@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.testBack2017;
+package br.com.testBack.main;
 
-import static br.com.testBack2017.dataBase.CRUD.batchInsertRecordsIntoTable;
-import static br.com.testBack2017.dataBase.CRUD.batchSelectRecordsIntoTable;
-import static br.com.testBack2017.tools.Formatation.removerAcentos;
+import static br.com.testBack.dataBase.CRUD.batchInsertRecordsIntoTable;
+import static br.com.testBack.dataBase.CRUD.batchSelectRecordsIntoTable;
+import static br.com.testBack.tools.Formatation.removerAcentos;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
 /**
